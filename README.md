@@ -1,5 +1,6 @@
 # PMP
 ### PMBOK(Sixth Edition) PMP exam questions.
+
 1. A project chartr is developed and reviewed with the sponsor. The sponsor believes that project charter approval is unnecessary since the project is not high risk. What should the project manager do?
 A. Explain to the sponsor that project charter approval is necessary to formally establish the project manager’s authority.
 B. Inform the sponsor that project charter approval is a requirement for governance compliance.
