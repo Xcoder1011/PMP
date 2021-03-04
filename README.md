@@ -1,6 +1,5 @@
 # PMP
 ### PMBOK(Sixth Edition) PMP exam questions.
-
 1. A project chartr is developed and reviewed with the sponsor. The sponsor believes that project charter approval is unnecessary since the project is not high risk. What should the project manager do?
 A. Explain to the sponsor that project charter approval is necessary to formally establish the project manager’s authority.
 B. Inform the sponsor that project charter approval is a requirement for governance compliance.
@@ -329,3 +328,4 @@ D. 与团队一起审查新需求，并要求他们开始为新需求工作。
 ................
 解析：C 是参考答案。敏捷评审会中出现新改进请求，就在下一次迭代规划会上讨论。 
 排除 ABD：A 不可以直接添加到迭代的待办事项，应该先在规划会中进行讨论，确定在新迭 代中完成的话，才添加进来；B 回顾会中讨论新需求，错；D 直接开始为新需求工作，错。
+................
